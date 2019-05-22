@@ -16,6 +16,7 @@
 - [Michael Wan](https://github.com/themichaelwan)
 - [Dee Neely](https://github.com/CDNeely64)
 - [Stanislav O.](https://github.com/stanostr)
+- [Soudt21] (https://github.com/soudt21)
 - [Raquel A.](https://github.com/rva5120)
 - [Lucas James] (hhtps://github.com/ljgecko1230)
 - [Nghia Vo] (https://github.com/Kungfoosian)
